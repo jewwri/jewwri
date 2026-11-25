@@ -9,7 +9,7 @@
 ### My work sits at the intersection of:
 
 - 🤖 AI/ML systems
-- 📊 Data engineering
+- 📊 Data analysis
 - 🍎 Developer education
 - 💬 Technical storytelling
 - 🔬 Applied research
